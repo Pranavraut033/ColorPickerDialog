@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="@dimen/pad2dp"
+        android:left="@dimen/pad2dp"
+        android:right="@dimen/pad2dp"
+        android:top="@dimen/pad2dp">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/white" />
+            <size
+                android:width="@dimen/button"
+                android:height="@dimen/button" />
+        </shape>
+    </item>
+</layer-list>

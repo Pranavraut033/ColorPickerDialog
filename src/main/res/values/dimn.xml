@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad4dp">4dp</dimen>
+    <dimen name="pad16dp">16dp</dimen>
+    <dimen name="pad12dp">12dp</dimen>
+    <dimen name="pad2dp">2dp</dimen>
+    <dimen name="pad32dp">32dp</dimen>
+    <dimen name="menuIcon">40dp</dimen>
+    <dimen name="pad28dp">28dp</dimen>
+    <dimen name="dPad">8dp</dimen>
+    <dimen name="button">48dp</dimen>
+    <dimen name="square_radius">5dp</dimen>
+    <dimen name="buttonSize">56dp</dimen>
+    <dimen name="mar">2dp</dimen>
+    <dimen name="pad1">4dp</dimen>
+</resources>

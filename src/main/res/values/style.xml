@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button" parent="Base.Widget.AppCompat.ImageButton">
+        <item name="android:layout_height">@dimen/buttonSize</item>
+        <item name="android:layout_width">@dimen/buttonSize</item>
+        <item name="android:padding">@dimen/pad1</item>
+        <item name="elevation">2dp</item>
+        <item name="android:layout_margin">@dimen/mar</item>
+    </style>
+
+    <style name="square" parent="button">
+        <item name="background">@drawable/square</item>
+        <item name="android:src">@drawable/square</item>
+    </style>
+
+    <style name="circular" parent="button">
+        <item name="background">@drawable/circular</item>
+        <item name="android:src">@drawable/circular</item>
+    </style>
+</resources>
